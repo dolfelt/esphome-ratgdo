@@ -49,3 +49,4 @@ wifi:
   ap:
 
 logger:
+  level: VERBOSE
